@@ -1,3 +1,4 @@
+user_ input = int(input("The imput is 0-10")
 range(1) function
 range(2) function
 range(3) function
